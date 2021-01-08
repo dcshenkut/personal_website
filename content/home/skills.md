@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: 60%
-  icon: pytorch
+  icon: python
   icon_pack: fas
   name: PyTorch
 - description: 50%
@@ -38,8 +38,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
- icon: "your-custom-icon-name"
-  icon_pack: "custom"
-  name: "Surfing"
-  description: "90%"
+ #icon: "your-custom-icon-name"
+  #icon_pack: "custom"
+  #name: "Surfing"
+  #description: "90%"
 ---
