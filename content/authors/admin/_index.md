@@ -68,4 +68,4 @@ I am a graduate student of Electrical and Computer Engineering at Carnegie Mello
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Dereje Shenkut CV(1).pdf" "newtab" >}}resumé{{< /staticref >}}.
