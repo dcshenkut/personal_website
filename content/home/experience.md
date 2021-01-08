@@ -22,24 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Assistant Lecturer
     company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    company_url: 'www.aait.edu.et'
+    location: Addis Ababa
+    date_start: '2019-07-19'
+    date_end: '2020-08-31'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teach Control Engineering using MATLAB for 85 students
+        * Developing quizzes, exams, and homework
+        * Revising the syllabus to meet accreditation standards
+        * Coordinating grading and labs by myself and school facilities.
         
-  - title: Professor
-    company: University X
+  - title: Intern Electrical Engineer
+    company: Dventus Technologies
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Addis Ababa
+    date_start: '2018-03-01'
+    date_end: '2018-06-30'
+    description: Designing using Altium PCB Designer and C-programming language, simulating using MATLAB and hardware testing of smart watermeter.
 ---
