@@ -32,7 +32,7 @@ experience:
         Responsibilities include:
         
         * Teach Control Engineering using MATLAB for 85 students
-        * Developing quizzes, exams, and homework
+        * Developing quizzes, exams, and homeworks
         * Revising the syllabus to meet accreditation standards
         * Coordinating grading and labs by myself and school facilities.
         
@@ -42,5 +42,5 @@ experience:
     location: Addis Ababa
     date_start: '2018-03-01'
     date_end: '2018-06-30'
-    description: Designing using Altium PCB Designer and C-programming language, simulating using MATLAB and hardware testing of smart watermeter.
+    description: Design, simulate and hardware testing of smart watermeter.
 ---
