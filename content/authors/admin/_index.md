@@ -30,7 +30,7 @@ education:
     year: 2020 - present
   - course: BSc in Electrical and Computer Engineering
     institution: Addis Ababa University
-    year: 2014-2019
+    year: 2014 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
