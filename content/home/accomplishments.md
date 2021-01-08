@@ -26,10 +26,10 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/WEHEM7SWSD4G
   date_end: ""
   date_start: "2020-06-06"
-  description: Machine Learning with Python
+  description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Blockchain Fundamentals
+  title: Machine Learning with Python
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/WU52D5FLH6ZC
   date_end: ""
