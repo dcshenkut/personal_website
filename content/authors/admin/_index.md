@@ -18,9 +18,9 @@ bio: I am a machine learning enthusiast.
 
 # Interests to show in About widget
 Interests:
-- Deep learning 
+- Deep Learning 
 - Computer Vision
-- AI for healthcare
+- AI for Healthcare
 
 # Education to show in About widget
 education:
