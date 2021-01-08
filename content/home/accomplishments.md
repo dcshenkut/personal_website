@@ -47,4 +47,13 @@ item:
   organization_url: https://www.coursera.org
   title: 'Machine Learning'
   url: ""
+- certificate_url: https://github.com/dcshenkut/personal_website/blob/master/static/media/Gold_medal_certification.pdf
+  date_end: ""
+  date_start: "2019-07-13"
+  description: "Outstanding student of the year"
+  organization: Addis Ababa University
+  organization_url: https://www.aau.edu.et
+  title: 'Gold Medal Certification'
+  url: ""
+ 
 ---
