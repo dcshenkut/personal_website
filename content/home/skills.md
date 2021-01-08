@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
   name: Python
 - description: 60%
-  icon: chart-line
+  icon: pytorch
   icon_pack: fas
   name: PyTorch
 - description: 50%
-  icon: camera-retro
+  icon: matlab
   icon_pack: fas
   name: MATLAB
 
