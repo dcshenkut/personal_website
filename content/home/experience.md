@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Lecturer
-    company: GenCoin
+    company: Addis Ababa University
     company_url: 'www.aait.edu.et'
     location: Addis Ababa
     date_start: '2019-07-19'
