@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: PyTorch
 - description: 50%
-  icon: matlab
+  icon: python
   icon_pack: fas
   name: MATLAB
 
