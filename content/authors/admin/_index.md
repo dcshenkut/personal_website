@@ -25,8 +25,7 @@ Interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Electrical and Computer Engineering
-    Specialization: Applied Machine Learning
+  - course: MSc in Electrical and Computer Engineering (Specialization: Applied Machine Learning)
     institution: Carnegie Mellon University
     year: 2020 - present
   - course: BSc in Electrical and Computer Engineering
