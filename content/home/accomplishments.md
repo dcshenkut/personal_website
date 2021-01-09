@@ -47,7 +47,7 @@ item:
   organization_url: https://www.coursera.org
   title: 'Machine Learning'
   url: ""
-- certificate_url: https://github.com/dcshenkut/personal_website/blob/master/static/media/Gold_medal_certification.pdf
+- certificate_url: https://drive.google.com/file/d/1nM-qLuGwaqIjkgi9KiBrYSn_8NcYN0NN/view?usp=sharing
   date_end: ""
   date_start: "2019-07-13"
   description: "Outstanding student of the year"
